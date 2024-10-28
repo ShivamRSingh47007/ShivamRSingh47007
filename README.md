@@ -2,7 +2,7 @@
 17 y/o<br>Student @ Guru Gobind Singh Polytechnic, Nashik<br>Diploma in Electronics & Telecommunication
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivamsingh47007) 
 
 # 💻 Tech Stack:
