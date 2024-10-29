@@ -1,5 +1,5 @@
 # 💫 About Me:
-17 y/o<br>Student @ Guru Gobind Singh Polytechnic, Nashik<br>Diploma in Electronics & Telecommunication
+17 y/o<br>Student at Guru Gobind Singh Polytechnic, Nashik<br>Diploma in Electronics & Telecommunication
 
 
 # 🌐 Socials:
